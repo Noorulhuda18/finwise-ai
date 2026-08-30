@@ -1,3 +1,4 @@
+https://finwise-ai-tkanejsa6kgun9nqqqfhwg.streamlit.app/
 # 💰 FinWise AI
 
 ### AI-Powered Personal Financial Analysis & Smart Budget Assistant
